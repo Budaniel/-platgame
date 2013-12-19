@@ -32,8 +32,12 @@
   <backgrounds name="background">
     <background>background\grass_tiles</background>
     <background>background\floor_dirt_cornerR</background>
+    <background>background\skip_bak</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\LivesFont</font>
+  </fonts>
   <objects name="objects">
     <object>objects\TestAvatar_obj</object>
     <objects name="items">
@@ -53,11 +57,14 @@
       <object>objects\floor_ice_obj</object>
     </objects>
     <object>objects\grass_obj</object>
+    <object>objects\setlives_obj</object>
+    <object>objects\placeholder</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\grass_wave_tl</timeline>
   </timelines>
   <rooms name="rooms">
+    <room>rooms\StartHere</room>
     <room>rooms\Bud_R1</room>
     <room>rooms\room0</room>
     <room>rooms\WillsRoom</room>

@@ -11,6 +11,10 @@
       <sprite>sprites\testwalkyL</sprite>
       <sprite>sprites\Testavatar_sprL</sprite>
       <sprite>sprites\Testavatar_spr</sprite>
+      <sprite>sprites\willwalkr</sprite>
+      <sprite>sprites\willwalkl</sprite>
+      <sprite>sprites\willstand_r</sprite>
+      <sprite>sprites\willlstand_l</sprite>
     </sprites>
     <sprites name="item_spr">
       <sprite>sprites\item_box_spr</sprite>
@@ -40,6 +44,7 @@
   </fonts>
   <objects name="objects">
     <object>objects\TestAvatar_obj</object>
+    <object>objects\Will_ava_obj</object>
     <objects name="items">
       <object>objects\item_box_1up_obj</object>
       <object>objects\item_box_health_obj</object>

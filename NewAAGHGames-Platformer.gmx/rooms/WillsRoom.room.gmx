@@ -49,7 +49,92 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
-  <instances/>
+  <instances>
+    <instance objName="floor_obj" x="-160" y="96" name="inst_166EB329" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="448" y="160" name="inst_EDFE631D" locked="0" code="" scaleX="1" scaleY="1" colour="1090519039" rotation="0"/>
+    <instance objName="floor_obj" x="992" y="-256" name="inst_5BD48D0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="0" y="352" name="inst_32D26028" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="32" y="352" name="inst_75CB21C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="64" y="352" name="inst_7B0E9890" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="96" y="352" name="inst_B56D85EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="128" y="352" name="inst_DE7739F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="160" y="352" name="inst_65B18579" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="192" y="352" name="inst_EC7BF2E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="224" y="352" name="inst_9CA084F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="256" y="352" name="inst_1AB494F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="288" y="352" name="inst_4026BECE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="320" y="352" name="inst_1AD8CD97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="352" y="352" name="inst_8F2CE40B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="384" y="352" name="inst_397BF936" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="416" y="352" name="inst_5ED04667" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="448" y="352" name="inst_DA21DCDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="480" y="352" name="inst_9C27854D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="544" y="352" name="inst_6E63F4E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="512" y="352" name="inst_B3B92DF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="576" y="352" name="inst_EC95899F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="608" y="352" name="inst_9013D237" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="0" y="384" name="inst_9AD4D84C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="32" y="384" name="inst_C272813B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="64" y="384" name="inst_49F8B24D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="96" y="384" name="inst_72D11228" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="128" y="384" name="inst_DD721B5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="160" y="384" name="inst_D4E49910" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="192" y="384" name="inst_49C58593" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="224" y="384" name="inst_EB8E1FB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="256" y="384" name="inst_867A11E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="288" y="384" name="inst_3804C123" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="320" y="384" name="inst_D5960454" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="352" y="384" name="inst_E3FB049E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="384" y="384" name="inst_A262797A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="448" y="384" name="inst_51AB0A87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="480" y="384" name="inst_18220390" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="416" y="384" name="inst_BCC197C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="512" y="384" name="inst_13F1091D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="544" y="384" name="inst_82ED6730" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="576" y="384" name="inst_4EA1D220" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="608" y="384" name="inst_404A4259" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="0" y="352" name="inst_3135625F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="32" y="352" name="inst_B8C98A2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="64" y="352" name="inst_58FC602C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="96" y="352" name="inst_5309A0B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="192" y="288" name="inst_C7BB25A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="160" y="352" name="inst_64A4824F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="256" y="352" name="inst_149ABB54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="288" y="352" name="inst_222AC7BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="320" y="352" name="inst_ABA71374" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="352" y="352" name="inst_9A705560" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="384" y="352" name="inst_73DDEDDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="416" y="320" name="inst_0A42EE77" locked="0" code="" scaleX="0" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="416" y="352" name="inst_53F309AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="448" y="352" name="inst_774AEF8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="480" y="352" name="inst_58394A11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="512" y="352" name="inst_1CD31125" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="544" y="352" name="inst_B39AF1AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="576" y="352" name="inst_5D32ED7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="608" y="352" name="inst_5F4A82BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Will_ava_obj" x="32" y="288" name="inst_62104FDB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="item_box_1up_obj" x="96" y="320" name="inst_A0008172" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="item_1up_obj" x="96" y="320" name="inst_ECA48485" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="160" y="352" name="inst_74BBDC50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="192" y="320" name="inst_934DAB39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="224" y="320" name="inst_9D825C47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="160" y="320" name="inst_475D9DB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="128" y="320" name="inst_BE8AE185" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="160" y="320" name="inst_F6CF4EFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="192" y="320" name="inst_DE3471A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="224" y="320" name="inst_33D7BBCB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="128" y="320" name="inst_59AE7D12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="160" y="320" name="inst_FF8BCB74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="192" y="320" name="inst_D53B3915" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="160" y="288" name="inst_429D9A2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="128" y="320" name="inst_F6D199F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_grass_obj" x="224" y="320" name="inst_BECC0C3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="128" y="352" name="inst_172EF759" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="224" y="352" name="inst_43FACDEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_dirt_obj" x="192" y="352" name="inst_0D395317" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="160" y="288" name="inst_96507EF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="floor_obj" x="192" y="288" name="inst_232F798C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+  </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
